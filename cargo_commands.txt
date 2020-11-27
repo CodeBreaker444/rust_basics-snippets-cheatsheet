@@ -1,0 +1,6 @@
+create new project
+- cargo new my_project --bin (creates a bin project)
+- cargo new my_project --lib (creates a library)
+- cargo run (builds and runs)
+- cargo build --release (builds a production without debug)
+
