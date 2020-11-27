@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.automationShell.linux": "",
+    "rust-client.channel": null
+}
