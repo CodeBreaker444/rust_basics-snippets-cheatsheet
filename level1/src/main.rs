@@ -2,6 +2,7 @@ use std::io;
 use std::io::Write;
 mod data_structures;
 mod area_example;
+mod methods;
 fn main() {
     //Ownerships
     /*
@@ -57,6 +58,8 @@ fn main() {
     data_structures::base_structure();
     //Call for area examples
     area_example::main();
+    //Call for methods file
+    methods::main();
 
 
 
